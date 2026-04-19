@@ -18,6 +18,8 @@ This repo is meant to be:
   SeedVR2 and UltraSharp upscaling workflows.
 - `workflows/wan`
   Wan example workflows and motion-transfer style templates.
+- `packs/gta-third-person`
+  Curated GTA-style third-person pack with prompts, model stubs, node list, and ready-to-open workflow copies.
 - `references/images`
   Reusable image references for testing and motion/identity pipelines.
 - `references/videos`

@@ -1,0 +1,15 @@
+Model group: FLUX text encoders
+
+Source:
+- https://comfyanonymous.github.io/ComfyUI_examples/flux/
+- https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main
+
+Typical target path:
+- ComfyUI/models/text_encoders/
+
+Typical files:
+- t5xxl_fp16.safetensors
+- clip_l.safetensors
+
+Alternative for Flux.2 Klein template:
+- qwen_3_8b_fp8mixed.safetensors

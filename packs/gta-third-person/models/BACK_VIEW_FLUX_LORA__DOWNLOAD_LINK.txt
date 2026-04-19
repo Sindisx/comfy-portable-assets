@@ -1,0 +1,16 @@
+LoRA: Such a Back View - Flux
+
+Source:
+- https://tensor.art/models/783769237585131643
+- https://civarchive.com/tensorart/models/783769237585131643/versions/783769237585131643
+
+Target path:
+- ComfyUI/models/loras/gta/SuchBackView_000000750.safetensors
+
+Triggers:
+- SuchBackView
+- Back View of
+- Rear View of
+
+Recommended strength:
+- 0.35 - 0.6

@@ -1,0 +1,15 @@
+LoRA: GTA VI Lora - Grand Theft Auto 6 + GTA V Style FLUX
+
+Source:
+- https://civitai.green/models/688840/gta-vi-lora-grand-theft-auto-6-gta-v-style-flux
+- https://huggingface.co/WiroAI/GTA6-style-flux-lora
+
+Target path:
+- ComfyUI/models/loras/gta/GTA_VI_style_flux.safetensors
+
+Triggers:
+- aidmaGTA6
+- aidmaGTA5
+
+Recommended strength:
+- 0.75 - 0.85

@@ -1,0 +1,10 @@
+Model: FLUX VAE
+
+Source:
+- https://docs.comfy.org/ja/tutorials/flux/flux-2-klein
+
+Target path:
+- ComfyUI/models/vae/flux2-vae.safetensors
+
+Notes:
+- needed by the Flux.2 Klein workflow template included in this pack

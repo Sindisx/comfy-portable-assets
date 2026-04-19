@@ -46,6 +46,17 @@
 - `workflows/wan/examples/260330_MICKMUMPITZ_AI-VFX_PREPROCESS_1-0.json`
 - `workflows/wan/examples/260403_SIMPLE_DANCE_TRANSFER_1-0.json`
 
+## GTA Pack
+
+- `packs/gta-third-person/workflows/gta_flux_klein_keyframe.json`
+  GTA-style keyframe / restyle template.
+- `packs/gta-third-person/workflows/gta_wan_third_person_animator_5090_safe.json`
+  GTA-oriented third-person rear-view video workflow.
+- `packs/gta-third-person/workflows/gta_video_ultrasharp_1080p.json`
+  Final 1080p upscale workflow for the GTA pack.
+- `packs/gta-third-person/README.md`
+  Entry point for the full pack, including model stubs and prompts.
+
 ## References
 
 - `references/images`

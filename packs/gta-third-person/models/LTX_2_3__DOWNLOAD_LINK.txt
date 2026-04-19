@@ -1,0 +1,15 @@
+Model family: LTX-2.3
+
+Source:
+- https://github.com/Lightricks/ComfyUI-LTXVideo
+- https://huggingface.co/Lightricks/LTX-2.3
+- https://huggingface.co/collections/Lightricks/ltx-23
+
+Target paths:
+- ComfyUI/models/checkpoints/
+- ComfyUI/models/loras/
+- ComfyUI/models/text_encoders/
+
+Notes:
+- optional branch for this GTA pack
+- current repo already contains LTX-related workflows outside this pack
