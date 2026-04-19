@@ -36,6 +36,11 @@ This repo is meant to be:
 3. Copy reference images if a workflow expects local inputs.
 4. Install the matching custom nodes and models listed in the manifests.
 
+## Bootstrap Scripts
+
+- `scripts/setup_gta_pack_on_pod.sh`
+  One-shot installer for the GTA third-person pack on a fresh ComfyUI pod.
+
 ## Public repo rules
 
 This repository should stay public-safe.

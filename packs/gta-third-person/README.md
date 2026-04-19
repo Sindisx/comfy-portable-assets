@@ -55,6 +55,13 @@
 4. Открой workflow из `workflows/`.
 5. Подставь свой стартовый кадр или исходное видео.
 
+## Автоустановка на новый pod
+
+Если хочешь поднимать новый pod одной командой, используй:
+
+- [INSTALL_ON_POD.md](/Users/sindisx/Documents/GITHUB/[Blender]/comfy-portable-assets/packs/gta-third-person/INSTALL_ON_POD.md)
+- [scripts/setup_gta_pack_on_pod.sh](/Users/sindisx/Documents/GITHUB/[Blender]/comfy-portable-assets/scripts/setup_gta_pack_on_pod.sh)
+
 ## Что здесь не хранится
 
 - большие модели
